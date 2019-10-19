@@ -1,0 +1,53 @@
+body{
+  text-align: center;
+  background-color:rgb(238, 238, 238);
+}
+
+h1 {
+  color:rgb(41, 41, 41);
+  text-transform: capitalize;
+  font-family: Arial;
+  font-weight: bold;
+}
+
+.guidebooks ,.weekend{
+  padding: 40px;
+  margin: 20px;
+}
+.imgs{
+  display: flex;
+  justify-content:center;
+  align-content: center;
+
+  
+
+}
+.img-text{
+  align-self: center;
+}
+.imgs h2{
+  display: flex;
+  align-content: center;
+  align-items: baseline;
+  color: white;
+
+}
+
+img{
+  width: 400px;
+  height: 300px;
+
+}
+
+ul li{
+  list-style: none;
+  padding: 10px;
+}
+button{
+  background-color: white;
+  font-weight: bold;
+  padding: 10px;
+  padding-left: 70px;
+  padding-right: 70px;
+  border: 1px solid black;
+}
