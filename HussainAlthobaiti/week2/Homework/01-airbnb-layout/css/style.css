@@ -8,6 +8,15 @@ h1 {
   text-transform: capitalize;
   font-family: Arial;
   font-weight: bold;
+  font-size: 30px;
+}
+h2{
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 30px;
+  color: white;
+
+
 }
 
 .guidebooks , .weekend{
@@ -17,7 +26,6 @@ h1 {
 
 .london{
   background-image: url('../img/london.jpg');
-  color: white;
   width: 25%;
   height: 350px;
   margin: 15px;
@@ -27,7 +35,6 @@ h1 {
 }
 .new-york{
   background-image: url('../img/new-york.jpg');
-  color: white;
   width: 25%;
   height: 350px;
   margin: 15px;
@@ -38,7 +45,6 @@ h1 {
 }
 .san-francisco{
   background-image: url('../img/san-francisco.jpg');
-  color: white;
   width: 25%;
   height: 350px;
   margin: 15px;
@@ -49,7 +55,6 @@ h1 {
 
 .napa{
   background-image: url('../img/napa.jpg');
-  color: white;
   width: 25%;
   height: 350px;
   margin: 15px;
@@ -62,7 +67,6 @@ h1 {
 
 .sonoma{
   background-image: url('../img/sonoma.jpg');
-  color: white;
   width: 25%;
   height: 350px;
   margin: 15px;
@@ -74,7 +78,6 @@ h1 {
 }
 .san-francisco2{
   background-image: url('../img/san-francisco-2.jpg');
-  color: white;
   width: 25%;
   height: 350px;
   margin: 15px;
