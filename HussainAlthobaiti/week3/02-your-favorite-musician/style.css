@@ -1,0 +1,45 @@
+body{
+    background-color:#264653;
+    
+}
+
+header{
+    background-color: #2A9D8F;
+    display: grid;
+    grid-template-rows: repeat(2, 1fr);
+
+}
+.header-text{
+    display: flex;
+    justify-content: flex-end;
+    align-content: center;
+    align-items: center;
+}
+
+.imgs{
+    display: flex;
+    justify-content: flex-start;
+    align-content: center;
+    align-items: baseline;
+    flex-wrap: nowrap;
+}
+img{
+    width: 30%;
+}
+
+h1{
+   color:#E9C46A;
+
+}
+h2{
+    color:#F4A261;
+    font-family: sans-serif;
+
+    
+}
+
+h3{
+    font-family: cursive;
+    color:#E76F51;
+
+}
