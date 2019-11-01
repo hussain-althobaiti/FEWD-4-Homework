@@ -1,0 +1,14 @@
+body{
+    background-color:cadetblue;
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+    border: gray 5px solid;
+
+}
+button , input{
+    display: block;
+    background-color: #663399;
+    color: #ffff;
+    font: 2em sans-serif;
+}
