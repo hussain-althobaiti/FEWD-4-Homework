@@ -4,8 +4,8 @@ function calculate(){
     x=Number(document.getElementById("input").value);
     
     if(x%3==0 && x %5==0){
-        console.log("Pling"+"Plang");
-        x="Pling"+"Plang";
+        console.log("Pling"+" Plang");
+        x="Pling"+" Plang";
 
         }
         else if (x%3==0){
